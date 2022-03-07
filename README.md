@@ -1,0 +1,2 @@
+# PowerPlatform-PowerApps-FeedReader
+ RSSリーダー
